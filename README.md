@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dami-laare
-- 👀 I’m interested in ... Front-end Web Development 
-- 🌱 I’m currently learning ...React JS
-- 💞️ I’m looking to collaborate on ... front end projects
+- 👀 I’m interested in ...  Web Development 
+- 🌱 I’m currently learning ... Web 3 and Solidity
+- 💞️ I’m looking to collaborate on ... Full stack web development projects
 - 📫 How to reach me ... email: osunkiyesitayo@gmail.com
 
 <!---
